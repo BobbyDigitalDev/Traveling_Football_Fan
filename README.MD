@@ -13,6 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 + JQuery Ajax
 + Postgresql - database
 + HTML & CSS
++ Draw.io - ERD
++ Moqups.com - Wireframes
+
 
 ##Trello board
 <a href="https://trello.com/b/tYYOSPAQ/project-3-bulbasaur">Bulbasaur Trello board</a>
