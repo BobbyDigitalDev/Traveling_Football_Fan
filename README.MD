@@ -30,5 +30,17 @@ Bobby Lopez
 |team1_name   | team2_name  | date  |
 |---|---|---|
 | Manchester United  | Chelsea  |05/01/2015   |
-|  Bar |   |   |
-|   |   |   |
+|  Barcelona |Real Madrid   | 05/02/2015  |
+| Bayern Munich  | Manchester city  |05/04/2015   |
+
+#### Users table
+|id   | email  |password   |
+|---|---|---|
+| 1  | efosa@gmail.com  |squirtle   |
+| 2  | mike@gmail.com  | charmander  |
+| 3  | bobby@gmail.com  | mewtwo |
+####Stadiums table
+| name  |capacity   |city   | country  |
+|---|---|---|---|
+|Camp Nou   | 99,786  | Barcelona  | Spain  |
+|Old Trafford   | 75,731  | Manchester  | England  |
