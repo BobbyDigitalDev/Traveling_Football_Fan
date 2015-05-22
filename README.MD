@@ -41,6 +41,6 @@ Bobby Lopez
 | 3  | bobby@gmail.com  | mewtwo |
 ####Stadiums table
 | name  |capacity   |city   | country  | home team|
-|---|---|---|---|
+|---|---|---|---|---|
 |Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona|
 |Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC|
