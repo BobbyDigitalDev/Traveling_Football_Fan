@@ -22,7 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ##Artifacts
 ###Wireframes
-###ERDs
+###ERD
+
+<img src="./images/ERDiagram.png">
+
 #### Itenaries table
 |id   |name   |user_id   |
 |---|---|---|---|
