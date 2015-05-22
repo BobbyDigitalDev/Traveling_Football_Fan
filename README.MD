@@ -22,7 +22,7 @@ Bobby Lopez
 ###ERDs
 #### Itenaries table
 |id   |name   |user_id   |
-|---|---|---|
+|---|---|---|---|
 |1   |Madrid-Real Madrid  | 1  |
 |2   |Barcelona-Camp Nou   |2   |
 |3   |Madrid-Athletico Madrid   |3   |
