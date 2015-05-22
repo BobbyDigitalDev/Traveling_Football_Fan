@@ -26,3 +26,9 @@ Bobby Lopez
 |1   |Madrid-Real Madrid  | 1  |
 |2   |Barcelona-Camp Nou   |2   |
 |3   |Madrid-Athletico Madrid   |3   |
+#### Matches table
+|team1_name   | team2_name  | date  |
+|---|---|---|
+| Manchester United  | Chelsea  |05/01/2015   |
+|  Bar |   |   |
+|   |   |   |
