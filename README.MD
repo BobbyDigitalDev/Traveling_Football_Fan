@@ -27,11 +27,11 @@ Bobby Lopez
 |2   |Barcelona-Camp Nou   |2   |
 |3   |Madrid-Athletico Madrid   |3   |
 #### Matches table
-|team1_name   | team2_name  | date  |
-|---|---|---|
-| Manchester United  | Chelsea  |05/01/2015   |
-|  Barcelona |Real Madrid   | 05/02/2015  |
-| Bayern Munich  | Manchester city  |05/04/2015   |
+|id|team1_name   | team2_name  | date  |
+|---|---|---|---|
+|1| Manchester United  | Chelsea  |05/01/2015   |
+|2|  Barcelona |Real Madrid   | 05/02/2015  |
+|3| Bayern Munich  | Manchester city  |05/04/2015   |
 
 #### Users table
 |id   | email  |password   |
@@ -40,7 +40,7 @@ Bobby Lopez
 | 2  | mike@gmail.com  | charmander  |
 | 3  | bobby@gmail.com  | mewtwo |
 ####Stadiums table
-| name  |capacity   |city   | country  | home team|
-|---|---|---|---|---|
-|Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona|
-|Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC|
+|id| name  |capacity   |city   | country  | home team|
+|---|---|---|---|---|---|
+|1|Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona|
+|2|Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC|
