@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 |3| Bayern Munich  | Manchester city  |05/04/2015   |
 
 #### Users table
-|id   | email  |password   |
+|id   | email  |password_digest   |
 |---|---|---|
 | 1  | efosa@gmail.com  |squirtle   |
 | 2  | mike@gmail.com  | charmander  |
