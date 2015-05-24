@@ -35,18 +35,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 #### Itenaries table
 |id   |name   |user_id   |
 |---|---|---|---|
-|1   |Madrid-Real Madrid  | 1  |
+|1   |England Games  | 1  |
 |2   |Barcelona-Camp Nou   |2   |
-|3   |Madrid-Athletico Madrid   |3   |
+|3   |Germany games   |3   |
 #### Matches table
-|id|team1_name   | team2_name  | date  |itenary_id|
-|---|---|---|---|---|
-|1| Manchester United  | Chelsea  |05/01/2015   |4|
-|2|  Barcelona |Real Madrid   | 05/02/2015  |2|
-|3| Bayern Munich  | Manchester city  |05/04/2015   |5|
+|id|stadium_id|team1_name   | team2_name  | date  |itinerary_id|
+|---|---|---|---|---|---|
+|1|2 |Manchester United  | Chelsea  |05/01/2015   |1|
+|2| 1 |Barcelona |Real Madrid   | 05/02/2015  |2|
+|3| 3|Bayern Munich  | Manchester city  |05/04/2015   |3|
 
 ####Stadiums table
 |id| name  |capacity   |city   | country  | home_team|
 |---|---|---|---|---|---|
 |1|Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona|
 |2|Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC|
+|3|Allianz Arena   | 75,024  | Munich  | Germany  |Bayern Munich|
