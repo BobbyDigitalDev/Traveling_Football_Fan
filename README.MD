@@ -27,11 +27,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <img src="./images/ERDiagram.png">
 
 #### Users table
-|id   | email  |password_digest   |
-|---|---|---|
-| 1  | efosa@gmail.com  |squirtle   |
-| 2  | mike@gmail.com  | charmander  |
-| 3  | bobby@gmail.com  | mewtwo |
+|id   |name| email  |password_digest   |
+|---|---|---|---|
+| 1  |efosa| efosa@gmail.com  |squirtle   |
+| 2  |mike| mike@gmail.com  | charmander  |
+| 3  |bobby| bobby@gmail.com  | mewtwo |
 #### Itenaries table
 |id   |name   |user_id   |
 |---|---|---|---|
