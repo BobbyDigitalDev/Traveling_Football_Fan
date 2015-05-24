@@ -26,6 +26,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <img src="./images/ERDiagram.png">
 
+#### Users table
+|id   | email  |password_digest   |
+|---|---|---|
+| 1  | efosa@gmail.com  |squirtle   |
+| 2  | mike@gmail.com  | charmander  |
+| 3  | bobby@gmail.com  | mewtwo |
 #### Itenaries table
 |id   |name   |user_id   |
 |---|---|---|---|
@@ -33,18 +39,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 |2   |Barcelona-Camp Nou   |2   |
 |3   |Madrid-Athletico Madrid   |3   |
 #### Matches table
-|id|team1_name   | team2_name  | date  |
-|---|---|---|---|
-|1| Manchester United  | Chelsea  |05/01/2015   |
-|2|  Barcelona |Real Madrid   | 05/02/2015  |
-|3| Bayern Munich  | Manchester city  |05/04/2015   |
+|id|team1_name   | team2_name  | date  |itenaries_id|
+|---|---|---|---|---|
+|1| Manchester United  | Chelsea  |05/01/2015   |4|
+|2|  Barcelona |Real Madrid   | 05/02/2015  |2|
+|3| Bayern Munich  | Manchester city  |05/04/2015   |5|
 
-#### Users table
-|id   | email  |password_digest   |
-|---|---|---|
-| 1  | efosa@gmail.com  |squirtle   |
-| 2  | mike@gmail.com  | charmander  |
-| 3  | bobby@gmail.com  | mewtwo |
 ####Stadiums table
 |id| name  |capacity   |city   | country  | home_team|
 |---|---|---|---|---|---|
