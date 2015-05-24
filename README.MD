@@ -22,9 +22,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ##Artifacts
 ###Wireframes
-###ERD
+<img src="./images/homepage.png">
+<img src="./images/sign_up_page.png">
+<img src="./images/itineraries.png">
+<img src="./images/itinerariesid.png">
+<img src="./images/matchesid-2.png">
 
+###ERD
 <img src="./images/ERDiagram.png">
+
+###Tables
 
 #### Users table
 |id   |name| email  |password_digest   |
