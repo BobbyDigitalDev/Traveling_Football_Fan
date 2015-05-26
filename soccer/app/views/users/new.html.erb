@@ -1,2 +1,21 @@
 <h1>You hit the sign up page!</h1>
 
+<% if @message %>
+<h3> <%= @message %></h3>
+<% end %>
+
+<p>Sign up for free today and start creating your very own custom Football itinieraries for your next trip overseas.</p>
+
+<%= form_tag '/users/create', method: 'post'  do %>
+	<%= label_tag "name:" %>
+	<%= name_field_tag :name%> <br />
+	<br/>
+	<%= label_tag "email:" %>
+	<%=email_field_tag :email%> <br />
+	<br />
+	<%=label_tag "password:" %>
+	<%=password_field_tag :password%> <br />
+	
+	<%= submit_tag "create new account"%>
+
+	<% end %>
