@@ -28,5 +28,8 @@ x
   # def edit
   # end
 
+  def create
+  end
+
 
 end
