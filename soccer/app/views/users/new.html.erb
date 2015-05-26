@@ -4,18 +4,23 @@
 <h3> <%= @message %></h3>
 <% end %>
 
-<p>Sign up for free today and start creating your very own custom Football itinieraries for your next trip overseas.</p>
+<p>Sign up for free today and start creating your very own custom Football itineraries for your next trip overseas.</p>
 
 <%= form_tag '/users/create', method: 'post'  do %>
 	<%= label_tag "name:" %>
-	<%= name_field_tag :name%> <br />
+	<%= text_field_tag :name%> <br />
 	<br/>
 	<%= label_tag "email:" %>
 	<%=email_field_tag :email%> <br />
 	<br />
 	<%=label_tag "password:" %>
 	<%=password_field_tag :password%> <br />
-	
+	<br />
+	<%=label_tag "retype password:" %>
+	<%=password_field_tag :password %>
+	<br />
+	<br />
 	<%= submit_tag "create new account"%>
+	<br />
 
 	<% end %>
