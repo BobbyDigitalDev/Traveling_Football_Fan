@@ -22,12 +22,11 @@ class ItinerariesController < ApplicationController
     def create
       @itineraries = Itinerary.new
       @itineraries.name = params[:name]
-        render :show
-
-      
 
 
-
+      if @itineraries.save 
+        redirect_to '/itineraries'
+      end
 
     # user = User.find_by(email: params[:email])
     # puts User.authenticate 
