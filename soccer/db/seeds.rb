@@ -11,3 +11,10 @@ User.delete_all
 
 User.create({name: "Leslie Knope", email: "les@knope2015.com", password: "waffles"})
 User.create({name: "Tom Haverford", email: "tommy@e720.com", password: "treatyoself"})
+
+Itinerary.delete_all
+
+Itinerary.create({name: "England Games", user_id: 1})
+Itinerary.create({name: "Barcelona-Camp Nou", user_id: 2})
+Itinerary.create({name: "Germany games", user_id: 3})
+
