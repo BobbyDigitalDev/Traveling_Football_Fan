@@ -18,4 +18,9 @@ class UsersController < ApplicationController
   		render :new
     end
   end
+
+  def edit
+  #   redirect_to "/itineraries[id]"
+  #   #redirect_to :controller => :itineraries, :action => :index
+  end
 end

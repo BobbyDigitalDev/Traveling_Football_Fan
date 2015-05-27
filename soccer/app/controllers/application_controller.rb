@@ -19,6 +19,11 @@ class ApplicationController < ActionController::Base
     unless current_user
       redirect_to root
     end
+
+      authenticated :user do
+  root :to => 'sessions#new', :as => :authenticated_root
+end
+root :to => redirect('http://www.goggle.com')
   end
 
 end
