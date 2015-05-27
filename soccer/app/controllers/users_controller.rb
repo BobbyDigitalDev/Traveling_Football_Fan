@@ -1,4 +1,6 @@
 class UsersController < ApplicationController
+
+  
   def new
   	@user = User.new
   	render :new
@@ -12,18 +14,15 @@ class UsersController < ApplicationController
   	@user.password = params[:password]
     @user.password_confirmation = params[:password_confirmation]
 
-<<<<<<< HEAD
-    if params[:password] == params[:password_confirmation]
+  if params[:password] == params[:password_confirmation]
       flash.now[:alert] = "Passwords must match!"
-    end
-x
+  end
 
-  	if @user.save 
-=======
+
     if @user.save 
->>>>>>> a014b5be7bd203697a668c1b5b368bdfe2b70f86
-  		redirect_to "/users" #come and modify when itineraries are made
-  	else
+  		#redirect_to "/users" 
+  	   redirect_to "/"#come and modify when itineraries are made
+    else
   		render :new
     end
   end
