@@ -14,7 +14,7 @@ User.create({name: "Tom Haverford", email: "tommy@e720.com", password: "treatyos
 
 Itinerary.delete_all
 
-Itinerary.create({name: "England Games", user_id: 1})
-Itinerary.create({name: "Barcelona-Camp Nou", user_id: 2})
-Itinerary.create({name: "Germany games", user_id: 3})
+Itinerary.create({name: "England Games", user_id: 8})
+Itinerary.create({name: "Barcelona-Camp Nou", user_id: 8})
+Itinerary.create({name: "Germany games", user_id: 9})
 
