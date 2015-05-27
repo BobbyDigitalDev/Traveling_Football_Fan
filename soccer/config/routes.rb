@@ -19,10 +19,10 @@ Rails.application.routes.draw do
 
   # before_action :authenticate_user!
 
-  authenticated :user do
-  root :to => 'sessions#new', :as => :authenticated_root
-end
-root :to => redirect('http://www.goggle.com')
+#   authenticated :user do
+#   root :to => 'sessions#new', :as => :authenticated_root
+# end
+# root :to => redirect('http://www.goggle.com')
 
  
 
