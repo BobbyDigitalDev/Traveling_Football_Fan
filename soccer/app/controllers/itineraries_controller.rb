@@ -1,8 +1,10 @@
 class ItinerariesController < ApplicationController
   def index
+
     if session[:user_id] != nil # the client is logged in
-      user = User.find(session[:user_id])
-      itineraries = Itinerary.where({user_id: user.id})
+      @user = User.find(session[:user_id])
+      @itineraries = Itinerary.where({user_id: @user.id})
+
       # render text: "Hello, I know who you are: #{user.email}"
       render :index
       #we need to cr
@@ -10,6 +12,7 @@ class ItinerariesController < ApplicationController
       #render text: 'Woah', status: 401
       redirect_to '/'
     end
+
     # user = User.find_by(email: params[:email])
     # puts User.authenticate 
     # if user && user.authenticate(params[:password])
