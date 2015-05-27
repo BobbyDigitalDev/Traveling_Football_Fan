@@ -12,6 +12,22 @@ class ItinerariesController < ApplicationController
       #render text: 'Woah', status: 401
       redirect_to '/'
     end
+  end
+
+    def new
+      @itineraries = Itinerary.new
+      render :index
+    end
+
+    def create
+      @itineraries = Itinerary.new
+      @itineraries.name = params[:name]
+        render :show
+
+      
+
+
+
 
     # user = User.find_by(email: params[:email])
     # puts User.authenticate 
