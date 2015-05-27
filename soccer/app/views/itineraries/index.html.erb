@@ -13,8 +13,9 @@
 <h2> <%=@user.name%> Itineraries</h2>
 
 <% @itineraries.each do |itinerary| %>
-
-    <button action = '/itineraries/id' name = 'itinerary'><%=itinerary.name%></button>
+    <form action='/itineraries/<%=itinerary.id%>'>
+        <input type="submit" value='<%=itinerary.name%>'>
+    </form>
 <% end %>
 
 
