@@ -6,6 +6,11 @@
 
 <p>Sign up for free today and start creating your very own custom Football itineraries for your next trip overseas.</p>
 
+<% if @user.errors.count > 0 %>
+	<p><%= @user.errors.full_messages %></p>
+<% end %>
+
+
 <%= form_tag '/users', method: 'post'  do %>
 	<%= label_tag "name:" %>
 	<%= text_field_tag :name%> <br />

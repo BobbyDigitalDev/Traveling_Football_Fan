@@ -12,7 +12,8 @@ class SessionsController < ApplicationController
 
       session[:user_id] = user.id 
 
-      redirect_to edit_users_path 
+      # redirect_to edit_users_path 
+      redirect_to '/itineraries'
     else 
 
       @message ="This email and password combination does not exist."

@@ -2,11 +2,27 @@ Rails.application.routes.draw do
   
   root 'sessions#new'
 
-  resource :users 
+  resources :users 
 
-  resource :sessions, only:[:new, :create, :destroy]
+  #get 'itineraries/index'
 
+
+  resources :sessions, only:[:new, :create, :destroy]
+
+
+
+  resources :itineraries
   
+  # authenticate :user do
+  #   resources :itineraries
+  # end
+
+  # before_action :authenticate_user!
+
+#   authenticated :user do
+#   root :to => 'sessions#new', :as => :authenticated_root
+# end
+# root :to => redirect('http://www.goggle.com')
 
  
 
