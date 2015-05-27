@@ -3,7 +3,8 @@ class ItinerariesController < ApplicationController
     if session[:user_id] != nil # the client is logged in
       user = User.find(session[:user_id])
       itineraries = Itinerary.where({user_id: user.id})
-      render text: "Hello, I know who you are: #{user.email}"
+      # render text: "Hello, I know who you are: #{user.email}"
+      render :index
       #we need to cr
     else
       #render text: 'Woah', status: 401
@@ -24,3 +25,4 @@ class ItinerariesController < ApplicationController
   def show
   end
 end
+

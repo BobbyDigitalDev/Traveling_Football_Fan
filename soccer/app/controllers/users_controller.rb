@@ -32,3 +32,6 @@ class UsersController < ApplicationController
   #   #redirect_to :controller => :itineraries, :action => :index
   end
 end
+
+
+
