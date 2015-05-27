@@ -20,4 +20,6 @@ class ApplicationController < ActionController::Base
   #     redirect_to root
   #   end
   # end
+
+  #make sure you come back to this with jeff
 end
