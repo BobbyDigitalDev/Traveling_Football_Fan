@@ -4,8 +4,10 @@ class ItinerariesController < ApplicationController
       user = User.find(session[:user_id])
       itineraries = Itinerary.where({user_id: user.id})
       render text: "Hello, I know who you are: #{user.email}"
+      #we need to cr
     else
-      render text: 'Woah', status: 401
+      #render text: 'Woah', status: 401
+      redirect_to '/'
     end
     # user = User.find_by(email: params[:email])
     # puts User.authenticate 
