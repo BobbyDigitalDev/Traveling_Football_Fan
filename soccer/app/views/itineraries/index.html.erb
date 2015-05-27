@@ -12,11 +12,9 @@
 
 <h2> <%=@user.name%> Itineraries</h2>
 
-<button action = '/itineraries/id' name = '#{itinerary}'><%=@itinerary.name%></button>
 
-<br />
-
-<button action = '/interaries/id' name = 'itinerary'><%=@itinerary.name%></button>
-
+<% @itineraries.each do |itinerary| %>
+	<button action = '/itineraries/id' name = 'itinerary'><%=itinerary.name%></button>
+<% end %>
 
 
