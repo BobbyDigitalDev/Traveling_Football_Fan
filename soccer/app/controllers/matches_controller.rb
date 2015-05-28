@@ -14,13 +14,20 @@ class MatchesController < ApplicationController
 	def show
 		@stadia = Stadium.all
 		@stadium.name = params[:name]
-		@stadium.id = params[:id]
 		render :show
 	end
 
 	def create
-		@stadia = Stadium.all
-		@stadium.name = params
+		@stadia = Stadium.new
+		@staduim.id = params[:id]
+		@stadium.name = params[:name]
+		@stadium.capacity = params[:capacity]
+		@stadium.city = params[:city]
+		@stadium.country = params[:country]
+		@stadium.home_team = params[:home_team]
+
+		render :show
+
 	end
 
 
