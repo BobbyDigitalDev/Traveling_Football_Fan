@@ -61,6 +61,6 @@ The hardcore fan can also benefit from having readily accessible talking points 
 ####Stadiums table
 |id| name  |capacity   |city   | country  | home_team| stadium_blurb | city_blurb |
 |---|---|---|---|---|---|---|---|
-|1|Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona| dummmy stadium blurb | dummy city blurb |
-|2|Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC| dummmy stadium blurb | dummy city blurb |
-|3|Allianz Arena   | 75,024  | Munich  | Germany  |Bayern Munich| dummmy stadium blurb | dummy city blurb |
+|1|Camp Nou   | 99,786  | Barcelona  | Spain  | FC Barcelona| stadium blurb | city blurb |
+|2|Old Trafford   | 75,731  | Manchester  | England  |Manchester United FC| stadium blurb | city blurb |
+|3|Allianz Arena   | 75,024  | Munich  | Germany  |Bayern Munich| stadium blurb | city blurb |
