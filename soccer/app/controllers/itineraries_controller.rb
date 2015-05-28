@@ -3,11 +3,13 @@ class ItinerariesController < ApplicationController
 
     if session[:user_id] != nil # the client is logged in
       @user = User.find(session[:user_id])
+      # same as the one below just more abstract
+      # @user.itineraries
       @itineraries = Itinerary.where({user_id: @user.id})
 
       # render text: "Hello, I know who you are: #{user.email}"
       render :index
-      #we need to cr
+
     else
       #render text: 'Woah', status: 401
       redirect_to '/'
@@ -22,6 +24,7 @@ class ItinerariesController < ApplicationController
     def create
       @itineraries = Itinerary.new
       @itineraries.name = params[:name]
+      @itineraries.user_id = session[:user_id]
 
 
       if @itineraries.save 
