@@ -9,6 +9,7 @@
 
 User.delete_all
 Itinerary.delete_all
+Stadium.delete_all
 
 User.create({name: "Leslie Knope", email: "les@knope2015.com", password: "waffles"})
 User.create({name: "Tom Haverford", email: "tommy@e720.com", password: "treatyoself"})
@@ -17,5 +18,11 @@ Itinerary.create({name: "England Games", user_id: 15})
 Itinerary.create({name: "Barcelona-Camp Nou", user_id: 8})
 Itinerary.create({name: "Germany games", user_id: 9})
 
+<<<<<<< HEAD
+=======
+Stadium.create({name:"Rungnado May Day Stadium", capacity: 150000, city:"Pyonyang", country:"North korea", home_team:"Korea DPR national football team"})
+Stadium.create({name:"Camp Nou", capacity: 99786, city:"Barcelona", country:"Spain", home_team:"FC Barcelona"})
+Stadium.create({name:"Estadio Azteca", capacity: 95500, city:"Mexico City", country:"Mexico", home_team:"Mexico national football team, Club América"})
+>>>>>>> 2c9be53213a7dc034c6eedadb79cba433315302f
 
 
