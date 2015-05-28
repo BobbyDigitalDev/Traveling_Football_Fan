@@ -1,12 +1,18 @@
 <img src="./images/Soccer-logo.png">
 ##Application description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+###Traveling Football Fan App
+The traveling football Fan App is the perfect travel partner for football fanatics and casual watchers alike. It allows you to create your very own football match itineraries for your travels abroad. Itineraries are designed to be printed and conveniently stored with the rest of your travel documents for use on game day. The traveling football app outputs detailed information about the city you're visiting, the stadium the match will be held, and the teams that are playing that day. If you have internet access while at the game, The Traveling Football Fan is only one click away.
+
+The casual fan will appreciate having easily accessible, printed content, they can use to build on their football knowledge as well as having valuable information that can help them connect with other football fans around the world. Building a network of football friends has never been easier. 
+
+The hardcore fan can also benefit from having readily accessible talking points they can use to connect with other fans and it can serve as an invaluable tool for keeping their many football watching adventures organized in one simple and convenient place. 
 
 ##Team members
 + Efosa Osamwonyi
 + Mike Stokes
-+ Bobby Lopez  
++ Bobby Lopez 
++ Kangil Lee 
 
 ##Technology used
 + Ruby on Rails
