@@ -15,10 +15,17 @@
 
 
 <% @itineraries.each do |itinerary| %>
+<<<<<<< HEAD
+	<form action='/itineraries/<%=itinerary.id%>'>
+	    <input type="submit" value='<%=itinerary.name%>'>
+	</form>
+	<br>
+=======
 
     <form action='/itineraries/<%=itinerary.id%>'>
         <input type="submit" value='<%=itinerary.name%>'>
     </form>
+>>>>>>> 2c9be53213a7dc034c6eedadb79cba433315302f
 <% end %>
 
 
