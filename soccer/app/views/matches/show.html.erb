@@ -10,12 +10,13 @@
 
 <h3>Create New Match</h3>
 
-<% @stadiums.each do |stadium| %>
-<select>
-<option value='name'><%=@stadium.name%></option>
-</select>
+<select name="stadium_id">
+<% @stadia.each do |stadium| %>
+
+<option value='<%= stadium.id %>'><%=stadium.name%></option>
 
 <%end%>
+</select> 
 
 
 <% form_tag '/matches', method: 'post' do %>

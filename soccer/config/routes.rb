@@ -12,6 +12,8 @@ Rails.application.routes.draw do
 
 
   resources :itineraries
+
+  resources :matches
   
   # authenticate :user do
   #   resources :itineraries

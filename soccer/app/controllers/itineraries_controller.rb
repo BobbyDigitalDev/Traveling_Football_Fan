@@ -35,6 +35,8 @@ class ItinerariesController < ApplicationController
 
 
   def show
+        redirect_to :controller => :matches, :action => :index
+
   end
 end
 
