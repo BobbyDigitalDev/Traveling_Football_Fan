@@ -17,3 +17,5 @@ Itinerary.create({name: "England Games", user_id: 15})
 Itinerary.create({name: "Barcelona-Camp Nou", user_id: 8})
 Itinerary.create({name: "Germany games", user_id: 9})
 
+
+
