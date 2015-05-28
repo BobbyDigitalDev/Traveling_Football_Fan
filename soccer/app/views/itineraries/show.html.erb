@@ -1,5 +1,6 @@
 <center>
-<h1><%=@user.name%><%=@itineraries.name%> Itinerary Details</h1>
+<h1><%=@user.name%> <%=@itineraries.name%> Itinerary Details</h1>
+</center>
 
 <br />
 
@@ -20,8 +21,10 @@
 <% form_tag '/matches', method: 'post' do %>
 <%= text_field_tag %> vs <%= text_field_tag %>
 <%= submit_tag "Create" %>
+<%end%>
 
 
 </section>
 
 <div></div>
+

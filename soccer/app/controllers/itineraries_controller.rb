@@ -14,6 +14,7 @@ class ItinerariesController < ApplicationController
       #render text: 'Woah', status: 401
       redirect_to '/'
     end
+  end
 
     def new
       @itineraries = Itinerary.new
