@@ -19,13 +19,23 @@
 <option value='<%= stadium.id %>'><%=stadium.name%></option>
 
 <%end%>
+
 </select> 
 
+<br>
 
-<% form_tag '/matches', method: 'post' do %>
-<%= text_field_tag :team_1 %> vs <%= text_field_tag :team_2 %>
-<%= submit_tag "Create" %>
-<%end%>
+<form action = '/itineraries/<%=@itinerary.id%>' method='POST'>
+<input name = 'authenticity_token' type="hidden" value="<%= form_authenticity_token %>" />
+<input name = "_method" type = 'hidden' value = 'patch' />
+<br>
+<input type = 'text' name = 'team1_name' /> 
+<h3>vs</h3> 
+<input type = 'text' name= 'team2_name' />
+<br>
+<br>
+<button>Create Match</button>
+<br>
+</form>
 
 
 </section>
