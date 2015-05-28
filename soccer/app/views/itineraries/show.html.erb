@@ -1,2 +1,30 @@
-<h1>Itineraries#show</h1>
-<p>Find me in app/views/itineraries/show.html.erb</p>
+<center>
+<h1><%=@user.name%> <%=@itineraries.name%> Itinerary Details</h1>
+</center>
+
+<br />
+
+<h2>Football Match Listings</h2>
+
+<section>
+
+<h3>Create New Match</h3>
+
+<% @stadiums.each do |stadium| %>
+<select>
+<option value='name'><%=@stadium.name%></option>
+</select>
+
+<%end%>
+
+
+<% form_tag '/matches', method: 'post' do %>
+<%= text_field_tag %> vs <%= text_field_tag %>
+<%= submit_tag "Create" %>
+<%end%>
+
+
+</section>
+
+<div></div>
+
