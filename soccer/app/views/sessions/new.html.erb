@@ -1,3 +1,10 @@
+
+<center>
+
+
+<img src = "https://github.com/MJStokes86/Project_3-Soccer_Fan/blob/master/images/Soccer-logo.png?raw=true" height='300' width= '500'/>
+
+
 <% if @message %>
   <h3> <%= @message %></h3>
 <% end %>
@@ -8,7 +15,12 @@
   <br />
   <%= label_tag "password:" %>
   <%= password_field_tag :password %>
-
+  <br>
+  <br>
   <%= submit_tag "Log in!"%>
+  <br>
+  <br>
   <%= link_to "sign up", {:controller => 'users', :action => 'new'}%>
 <% end %>
+
+</center>
