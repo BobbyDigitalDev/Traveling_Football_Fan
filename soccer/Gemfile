@@ -30,6 +30,8 @@ gem 'pry-rails'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+gem 'wikipedia-client'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

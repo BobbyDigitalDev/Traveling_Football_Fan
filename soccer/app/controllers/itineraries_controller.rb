@@ -36,13 +36,16 @@ class ItinerariesController < ApplicationController
 
   def show
    
-   @user = User.find(session[:user_id])
+    @user = User.find(session[:user_id])
     @stadia = Stadium.all
     @itinerary = Itinerary.find(params[:id])
 
-   
-
     render :show
+  end
+
+  def update
+    # redirect_to :controller => 'matches', :action => 'create'
+    #redirect_to '/matches/:id'
   end
 end
 
