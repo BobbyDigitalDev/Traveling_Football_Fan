@@ -9,9 +9,17 @@ Rails.application.routes.draw do
 
   resources :sessions, only:[:new, :create, :destroy]
 
+  resources :matches
 
 
-  resources :itineraries
+  # get 'itineraries/:id/matches'
+
+  resources :itineraries do 
+    resources :matches
+  end
+
+
+
 
  
   
