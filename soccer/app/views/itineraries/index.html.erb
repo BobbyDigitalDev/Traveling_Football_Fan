@@ -1,0 +1,32 @@
+<left><img src = "https://github.com/MJStokes86/Project_3-Soccer_Fan/blob/master/images/Soccer-logo.png?raw=true" height="100" width="300" /></left>
+
+
+<center>
+<h1><%=@user.name%> Football Itineraries</h1>
+
+<p>Name and create your itineraries on this page. Click on your intineraries to add match information. Be sure to use something descriptive in your name like the city, teams and date so you can easily find it later. </p>
+
+<%= form_tag '/itineraries', method: 'post' do %>
+<%= label_tag "create new itinerary" %>
+<%= text_field_tag :name %>
+<%= submit_tag "Create" %>
+
+<% end %>
+
+<br />
+
+<h2> <%=@user.name%> Itineraries</h2>
+
+
+<% @itineraries.each do |itinerary| %>
+
+	<form action='/itineraries/<%=itinerary.id%>'>
+	    <input type="submit" value='<%=itinerary.name%>'>
+	</form>
+	<br>
+
+<% end %>
+</center> 
+
+
+

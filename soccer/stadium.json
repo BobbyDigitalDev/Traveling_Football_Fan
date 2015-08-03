@@ -1,0 +1,2855 @@
+[
+  {
+    "name":"Rungnado May Day Stadium",
+    "capacity":"150,000[1]",
+    "city":"Pyongyang",
+    "country":"North Korea",
+    "home_team":"Korea DPR national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Salt Lake Stadium",
+    "capacity":"120,000[2]",
+    "city":"Kolkata",
+    "country":"India",
+    "home_team":"Atlético de Kolkata, Mohun Bagan AC, East Bengal FC, India national \nfootball team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Camp Nou",
+    "capacity":"99,786[3]",
+    "city":"Barcelona",
+    "country":"Spain",
+    "home_team":"FC Barcelona",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Azteca",
+    "capacity":"95,500[4]",
+    "city":"Mexico City",
+    "country":"Mexico",
+    "home_team":"Mexico national football team, Club América",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"FNB Stadium",
+    "capacity":"94,736[5]",
+    "city":"Johannesburg",
+    "country":"South Africa",
+    "home_team":"South Africa national football team, Kaizer Chiefs, 2010 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"The Rose Bowl",
+    "capacity":"92,542[6]",
+    "city":"Pasadena",
+    "country":"United States",
+    "home_team":"1994 FIFA World Cup Final, Exhibition matches of professional teams",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Wembley Stadium",
+    "capacity":"90,000[7]",
+    "city":"London",
+    "country":"England",
+    "home_team":"England national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Gelora Bung Karno Stadium",
+    "capacity":"88,306[8]",
+    "city":"Jakarta",
+    "country":"Indonesia",
+    "home_team":"Indonesia national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Bukit Jalil National Stadium",
+    "capacity":"87,411[9]",
+    "city":"Kuala Lumpur",
+    "country":"Malaysia",
+    "home_team":"Malaysia national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Borg El Arab Stadium",
+    "capacity":"86,000[10]",
+    "city":"Alexandria",
+    "country":"Egypt",
+    "home_team":"Egypt national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Azadi Stadium",
+    "capacity":"84,412[11]",
+    "city":"Tehran",
+    "country":"Iran",
+    "home_team":"Iran national football team, Esteghlal FC, Persepolis FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"ANZ Stadium",
+    "capacity":"83,500[12]",
+    "city":"Sydney",
+    "country":"Australia",
+    "home_team":"Australia national soccer team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade de France",
+    "capacity":"81,338[13]",
+    "city":"Saint-Denis",
+    "country":"France",
+    "home_team":"France national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Santiago Bernabéu Stadium",
+    "capacity":"85,454[14]",
+    "city":"Madrid",
+    "country":"Spain",
+    "home_team":"Spain national football team, Real Madrid C.F.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Signal Iduna Park (Westfalenstadion)",
+    "capacity":"80.667[15]",
+    "city":"Dortmund",
+    "country":"Germany",
+    "home_team":"Borussia Dortmund",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Monumental \"U\"",
+    "capacity":"80,093",
+    "city":"Lima",
+    "country":"Peru",
+    "home_team":"Universitario de Deportes",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadio Giuseppe Meazza (San Siro)",
+    "capacity":"80,018",
+    "city":"Milan",
+    "country":"Italy",
+    "home_team":"Milan, Internazionale",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Guangdong Olympic Stadium",
+    "capacity":"80,012",
+    "city":"Guangzhou",
+    "country":"China",
+    "home_team":"2008 Olympic men's football tournament",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade 5 Juillet 1962",
+    "capacity":"80,000[16]",
+    "city":"Algiers",
+    "country":"Algeria",
+    "home_team":"MC Alger",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"AT&T Stadium",
+    "capacity":"80,000",
+    "city":"Arlington",
+    "country":"United States",
+    "home_team":"2009, 2011 and 2013 CONCACAF Gold Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade des Martyrs",
+    "capacity":"80,000",
+    "city":"Kinshasa",
+    "country":"DR Congo",
+    "home_team":"Vita Club, Congo DR national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Beijing National Stadium",
+    "capacity":"80,000",
+    "city":"Beijing",
+    "country":"China",
+    "home_team":"2008 Olympic men's football tournament final",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Maracanã Stadium",
+    "capacity":"78,838[17]",
+    "city":"Rio de Janeiro",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, CR Flamengo, Fluminense FC, Botafogo FR",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Luzhniki Stadium",
+    "capacity":"78,360[18]",
+    "city":"Moscow",
+    "country":"Russia",
+    "home_team":"FC Spartak Moscow, CSKA Moscow",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Atatürk Olympic Stadium",
+    "capacity":"76,092[19]",
+    "city":"Istanbul",
+    "country":"Turkey",
+    "home_team":"İstanbul Büyükşehir Belediyespor",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Old Trafford",
+    "capacity":"75,731",
+    "city":"Manchester",
+    "country":"England",
+    "home_team":"Manchester United F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Allianz Arena",
+    "capacity":"75,000[20]",
+    "city":"Munich",
+    "country":"Germany",
+    "home_team":"FC Bayern Munich, TSV 1860 Munich",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Millennium Stadium",
+    "capacity":"74,500",
+    "city":"Cardiff",
+    "country":"Wales",
+    "home_team":"Wales national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Cairo International Stadium",
+    "capacity":"74,100",
+    "city":"Cairo",
+    "country":"Egypt",
+    "home_team":"Egypt national football team, Al-Ahly S.C., Zamalek SC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olympiastadion",
+    "capacity":"74,064",
+    "city":"Berlin",
+    "country":"Germany",
+    "home_team":"Hertha BSC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadio Olimpico",
+    "capacity":"72,698",
+    "city":"Rome",
+    "country":"Italy",
+    "home_team":"A.S. Roma, S.S. Lazio",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"International Stadium Yokohama",
+    "capacity":"72,327[21]",
+    "city":"Yokohama",
+    "country":"Japan",
+    "home_team":"Yokohama F. Marinos, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"NRG Stadium",
+    "capacity":"71,054",
+    "city":"Houston",
+    "country":"United States",
+    "home_team":"United States men's national soccer team, and Houston Dynamo prime matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olimpiyskiy National Sports Complex",
+    "capacity":"70,050[22]",
+    "city":"Kiev",
+    "country":"Ukraine",
+    "home_team":"Ukraine national football team, FC Dynamo Kyiv",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olympic Stadium Athens Spiros Louis",
+    "capacity":"70,030",
+    "city":"Athens",
+    "country":"Greece",
+    "home_team":"Greece national football team, AEK Athens, Panathinaikos F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kim Il-sung Stadium",
+    "capacity":"70,000",
+    "city":"Pyongyang",
+    "country":"North Korea",
+    "home_team":"Pyongyang City Sports Group",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Seoul Olympic Stadium",
+    "capacity":"69,950",
+    "city":"Seoul",
+    "country":"South Korea",
+    "home_team":"Korea Republic national football team, Seoul E-Land FC\n1986 Asian Games, 1988 Summer Olympics",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shah Alam Stadium",
+    "capacity":"69,372",
+    "city":"Shah Alam",
+    "country":"Malaysia",
+    "home_team":"Selangor FA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Nacional Mané Garrincha",
+    "capacity":"69,349",
+    "city":"Brasília",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, SE Gama, Brasília FC, Legião FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olympiastadion München",
+    "capacity":"69,250",
+    "city":"Munich",
+    "country":"Germany",
+    "home_team":"none",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Olímpico Universitario",
+    "capacity":"68,954",
+    "city":"Mexico City",
+    "country":"Mexico",
+    "home_team":"UNAM Pumas",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Gillette Stadium",
+    "capacity":"68,756",
+    "city":"Foxborough",
+    "country":"United States",
+    "home_team":"New England Revolution",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Monumental Antonio Vespucio Liberti",
+    "capacity":"67,432",
+    "city":"Buenos Aires",
+    "country":"Argentina",
+    "home_team":"Argentina national football team, River Plate",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Vélodrome",
+    "capacity":"67,374",
+    "city":"Marseille",
+    "country":"France",
+    "home_team":"Olympique de Marseille",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio do Morumbi",
+    "capacity":"67,052",
+    "city":"São Paulo",
+    "country":"Brazil",
+    "home_team":"São Paulo FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Castelão",
+    "capacity":"67,037",
+    "city":"Fortaleza",
+    "country":"Brazil",
+    "home_team":"Ceará SC, Fortaleza EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"CenturyLink Field",
+    "capacity":"67,000",
+    "city":"Seattle",
+    "country":"United States",
+    "home_team":"Seattle Sounders FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Mohamed V",
+    "capacity":"67,000[23]",
+    "city":"Casablanca",
+    "country":"Morocco",
+    "home_team":"Raja Casablanca",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sahand Stadium",
+    "capacity":"66,833",
+    "city":"Tabriz",
+    "country":"Iran",
+    "home_team":"Tractor Sazi F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Seoul World Cup Stadium",
+    "capacity":"66,806",
+    "city":"Seoul",
+    "country":"South Korea",
+    "home_team":"Korea Republic national football team, FC Seoul, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Daegu Stadium",
+    "capacity":"66,422",
+    "city":"Daegu",
+    "country":"South Korea",
+    "home_team":"Daegu FC, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Workers Stadium",
+    "capacity":"66,161",
+    "city":"Beijing",
+    "country":"China",
+    "home_team":"2008 Olympic men's football tournament and women's football tournaments, \nSome Beijing Guoan F.C. matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio da Luz",
+    "capacity":"65,647",
+    "city":"Lisbon",
+    "country":"Portugal",
+    "home_team":"S.L. Benfica, UEFA Euro 2004, 2014 UEFA Champions League Final",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olympic Stadium",
+    "capacity":"65,255",
+    "city":"Montreal",
+    "country":"Canada",
+    "home_team":"1976 Olympic men's football tournament, 2007 FIFA U-20 World Cup, 2014 FIFA \nU-20 Women's World Cup, Some Montreal Impact matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Centenario",
+    "capacity":"65,235",
+    "city":"Montevideo",
+    "country":"Uruguay",
+    "home_team":"Uruguay national football team, Peñarol",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Saitama Stadium 2002",
+    "capacity":"63,700[24]",
+    "city":"Saitama",
+    "country":"Japan",
+    "home_team":"Urawa Red Diamonds, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ellis Park Stadium",
+    "capacity":"62,567",
+    "city":"Johannesburg",
+    "country":"South Africa",
+    "home_team":"Orlando Pirates FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Yizhong Sports Center",
+    "capacity":"62,000",
+    "city":"Qingdao",
+    "country":"China",
+    "home_team":"Qingdao Jonoon F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Veltins-Arena",
+    "capacity":"61,973",
+    "city":"Gelsenkirchen",
+    "country":"Germany",
+    "home_team":"FC Schalke 04",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"King Fahd International Stadium",
+    "capacity":"61,781",
+    "city":"Riyadh",
+    "country":"Saudi Arabia",
+    "home_team":"Saudi Arabia national football team Al-Hilal, Al-Nassr, Al-Shabab",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Nanjing Olympic Sports Center",
+    "capacity":"61,443",
+    "city":"Nanjing",
+    "country":"China",
+    "home_team":"Jiangsu Guoxin-Sainty",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jawaharlal Nehru Stadium",
+    "capacity":"60,500[25]",
+    "city":"Kochi",
+    "country":"India",
+    "home_team":"Kerala Blasters",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Abuja Stadium",
+    "capacity":"60,491",
+    "city":"Abuja",
+    "country":"Nigeria",
+    "home_team":"Nigeria national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mercedes-Benz Arena",
+    "capacity":"60,441",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "home_team":"VfB Stuttgart",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Celtic Park",
+    "capacity":"60,355",
+    "city":"Glasgow",
+    "country":"Scotland",
+    "home_team":"Celtic F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Emirates Stadium",
+    "capacity":"60,338[26]",
+    "city":"London",
+    "country":"England",
+    "home_team":"Arsenal F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shenzhen Universiade Sports Centre",
+    "capacity":"60,334",
+    "city":"Shenzhen",
+    "country":"China",
+    "home_team":"Shenzhen Fengpeng F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jawaharlal Nehru Stadium",
+    "capacity":"60,254",
+    "city":"New Delhi",
+    "country":"India",
+    "home_team":"Some I-League matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadio San Paolo",
+    "capacity":"60,240",
+    "city":"Naples",
+    "country":"Italy",
+    "home_team":"Napoli",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio do Arruda",
+    "capacity":"60,044",
+    "city":"Recife",
+    "country":"Brazil",
+    "home_team":"Santa Cruz FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Guangxi Sports Center",
+    "capacity":"60,000",
+    "city":"Nanning",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hefei Olympic Sports Center Stadium",
+    "capacity":"60,000",
+    "city":"Hafei",
+    "country":"China",
+    "home_team":"Anhui Jiufang",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"King Abdullah Sports City",
+    "capacity":"60,000",
+    "city":"Jeddah",
+    "country":"Saudi Arabia",
+    "home_team":"Saudi Arabia national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade 14 January",
+    "capacity":"60,000",
+    "city":"Radès",
+    "country":"Tunisia",
+    "home_team":"Tunisia national football team, Espérance",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Basra Sports City",
+    "capacity":"60,000",
+    "city":"Basra",
+    "country":"Iraq",
+    "home_team":"Iraq national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Friends Arena",
+    "capacity":"60,000",
+    "city":"Solna",
+    "country":"Sweden",
+    "home_team":"Sweden national football team, AIK",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Fonte Nova",
+    "capacity":"60,000",
+    "city":"Salvador",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, EC Bahia, EC Vitória, Galícia EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jaber Al-Ahmad International Stadium",
+    "capacity":"60,000",
+    "city":"Kuwait City",
+    "country":"Kuwait",
+    "home_team":"Kuwait national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Benjamin Mkapa National Stadium",
+    "capacity":"60,000",
+    "city":"Dar es Salaam",
+    "country":"Tanzania",
+    "home_team":"Tanzania national football team, Young Africans",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Léopold Sédar Senghor",
+    "capacity":"60,000",
+    "city":"Dakar",
+    "country":"Senegal",
+    "home_team":"Senegal national football team, ASC Jeanne d'Arc",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Moi International Sports Centre",
+    "capacity":"60,000",
+    "city":"Nairobi",
+    "country":"Kenya",
+    "home_team":"Kenya national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"National Sports Stadium",
+    "capacity":"60,000",
+    "city":"Harare",
+    "country":"Zimbabwe",
+    "home_team":"Zimbabwe national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Odi Stadium",
+    "capacity":"60,000",
+    "city":"Mabopane",
+    "country":"South Africa",
+    "home_team":"Garankuwa United F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shenyang Olympic Sports Center Stadium",
+    "capacity":"60,000",
+    "city":"Shenyang",
+    "country":"China",
+    "home_team":"Changsha Ginde F.C., 2008 Olympic men's and women's football tournaments",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Palaran Stadium",
+    "capacity":"60,000",
+    "city":"Samarinda",
+    "country":"Indonesia",
+    "home_team":"Persisam Putra Samarinda, & Pekan Olahraga Nasional 2008",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Monumental Isidro Romero Carbo",
+    "capacity":"59,283[27]",
+    "city":"Guayaquil",
+    "country":"Ecuador",
+    "home_team":"Barcelona Sporting Club",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Chongqing Olympic Sports Center",
+    "capacity":"58,680",
+    "city":"Chongqing",
+    "country":"China",
+    "home_team":"Chongqing Lifan F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Tianhe Stadium",
+    "capacity":"58,500",
+    "city":"Guangzhou",
+    "country":"China",
+    "home_team":"Some Guangzhou Evergrande F.C. matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadio San Nicola",
+    "capacity":"58,270",
+    "city":"Bari",
+    "country":"Italy",
+    "home_team":"A.S. Bari",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mineirão",
+    "capacity":"58,170",
+    "city":"Belo Horizonte",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, CA Mineiro, Cruzeiro EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Warsaw National Stadium",
+    "capacity":"58,145",
+    "city":"Warsaw",
+    "country":"Poland",
+    "home_team":"Polish national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio de La Cartuja",
+    "capacity":"57,619",
+    "city":"Seville",
+    "country":"Spain",
+    "home_team":"Some Spain matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Tokyo National Olympic Stadium",
+    "capacity":"57,363",
+    "city":"Tokyo",
+    "country":"Japan",
+    "home_team":"Emperor's Cup and J. League Cup finals",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Imtech Arena",
+    "capacity":"57,000",
+    "city":"Hamburg",
+    "country":"Germany",
+    "home_team":"Hamburger SV",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shanghai Stadium",
+    "capacity":"56,842",
+    "city":"Shanghai",
+    "country":"China",
+    "home_team":"Shanghai East Asia, 2008 Olympic men's football tournament",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jinan Olympic Sports Center Stadium",
+    "capacity":"56,808",
+    "city":"Jinan",
+    "country":"China",
+    "home_team":"Shandong Luneng Taishan",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Jalisco",
+    "capacity":"56,713[28]",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "home_team":"Atlas",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Commonwealth Stadium",
+    "capacity":"56,302",
+    "city":"Edmonton",
+    "country":"Canada",
+    "home_team":"Canadian men's and women's national teams, 2007 FIFA U-20 World Cup, 2014 \nFIFA U-20 Women's World Cup, FC Edmonton (cup matches only)",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadi Olímpic Lluís Companys",
+    "capacity":"55,926",
+    "city":"Barcelona",
+    "country":"Spain",
+    "home_team":"1992 Summer Olympic Games, Catalonia national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Dalian People's Stadium",
+    "capacity":"55,843",
+    "city":"Dalian",
+    "country":"China",
+    "home_team":"Dalian Shide F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena do Grêmio",
+    "capacity":"55,662",
+    "city":"Porto Alegre",
+    "country":"Brazil",
+    "home_team":"Grêmio FBPA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena Națională",
+    "capacity":"55,634",
+    "city":"Bucharest",
+    "country":"Romania",
+    "home_team":"Romania national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Rajko Mitić Stadium",
+    "capacity":"55,538",
+    "city":"Belgrade",
+    "country":"Serbia",
+    "home_team":"Red Star Belgrade",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Mestalla",
+    "capacity":"55,000",
+    "city":"Valencia",
+    "country":"Spain",
+    "home_team":"Valencia CF",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"New Singapore National Stadium",
+    "capacity":"55,000",
+    "city":"Singapore",
+    "country":"Singapore",
+    "home_team":"Singapore national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kaohsiung National Stadium",
+    "capacity":"55,000",
+    "city":"Kaohsiung",
+    "country":"Taiwan",
+    "home_team":"World Games",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Helong Stadium",
+    "capacity":"55,000",
+    "city":"Changsha",
+    "country":"China",
+    "home_team":"Changsha Ginde F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Cape Town Stadium",
+    "capacity":"55,000",
+    "city":"Cape Town",
+    "country":"South Africa",
+    "home_team":"2010 FIFA World Cup, Ajax Cape Town FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Gelora Bung Tomo Stadium",
+    "capacity":"55,000",
+    "city":"Surabaya",
+    "country":"Indonesia",
+    "home_team":"Persebaya Surabaya",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Plovdiv Stadium",
+    "capacity":"55,000",
+    "city":"Plovdiv",
+    "country":"Bulgaria",
+    "home_team":"none",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Vicente Calderón Stadium",
+    "capacity":"54,907",
+    "city":"Madrid",
+    "country":"Spain",
+    "home_team":"Atlético Madrid",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Tianjin Olympic Center Stadium",
+    "capacity":"54,696",
+    "city":"Tianjin",
+    "country":"China",
+    "home_team":"Tianjin Teda",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Esprit Arena",
+    "capacity":"54,600",
+    "city":"Düsseldorf",
+    "country":"Germany",
+    "home_team":"Fortuna Düsseldorf",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Boris Paichadze Dinamo Arena",
+    "capacity":"54,549",
+    "city":"Tbilisi",
+    "country":"Georgia",
+    "home_team":"Georgia national football team, FC Dinamo Tbilisi",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadion Śląski",
+    "capacity":"54,477",
+    "city":"Chorzów",
+    "country":"Poland",
+    "home_team":"Poland national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Wuhan Sports Center Stadium",
+    "capacity":"54,357",
+    "city":"Wuhan",
+    "country":"China",
+    "home_team":"Some Wuhan Optics Valley F.C. matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"BC Place Stadium",
+    "capacity":"54,320",
+    "city":"Vancouver",
+    "country":"Canada",
+    "home_team":"Vancouver Whitecaps FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hrazdan Stadium",
+    "capacity":"54,208",
+    "city":"Yerevan",
+    "country":"Armenia",
+    "home_team":"FC Ararat Yerevan, Ulisses F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Serra Dourada",
+    "capacity":"54,084",
+    "city":"Goiânia",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, Goiás EC, Vila Nova FC, Atlético CG, Goiânia \nEC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Borussia-Park",
+    "capacity":"54,057",
+    "city":"Mönchengladbach",
+    "country":"Germany",
+    "home_team":"Borussia Mönchengladbach",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Olympic Stadium (London)",
+    "capacity":"54,000",
+    "city":"London",
+    "country":"England",
+    "home_team":"West Ham United",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Moses Mabhida Stadium",
+    "capacity":"54,000",
+    "city":"Durban",
+    "country":"South Africa",
+    "home_team":"2010 FIFA World Cup, AmaZulu FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Busan Asiad Stadium",
+    "capacity":"53,864",
+    "city":"Busan",
+    "country":"South Korea",
+    "home_team":"Busan IPark, 2002 FIFA World Cup, 2002 Asian Games",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Docklands Stadium",
+    "capacity":"53,359",
+    "city":"Melbourne",
+    "country":"Australia",
+    "home_team":"Australia national soccer team, Melbourne Victory",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Parque do Sabiá",
+    "capacity":"53,350",
+    "city":"Uberlândia",
+    "country":"Brazil",
+    "home_team":"Uberlânia EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"San Mamés Stadium",
+    "capacity":"53,332",
+    "city":"Bilbao",
+    "country":"Spain",
+    "home_team":"Athletic Bilbao",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Aleppo International Stadium",
+    "capacity":"53,200",
+    "city":"Aleppo",
+    "country":"Syria",
+    "home_team":"Al-Ittihad SC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Amsterdam Arena",
+    "capacity":"53,052",
+    "city":"Amsterdam",
+    "country":"Netherlands",
+    "home_team":"AFC Ajax",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Ciudad de La Plata",
+    "capacity":"53,000",
+    "city":"La Plata",
+    "country":"Argentina",
+    "home_team":"Estudiantes de La Plata, Club de Gimnasia y Esgrima La Plata",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kozhikode Municipal Stadium",
+    "capacity":"53,000",
+    "city":"Kozhikode",
+    "country":"India",
+    "home_team":"local football teams",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Huanglong Stadium",
+    "capacity":"52,672",
+    "city":"Hangzhou",
+    "country":"China",
+    "home_team":"Hangzhou Nabel Greentown F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Türk Telekom Arena",
+    "capacity":"52,652",
+    "city":"Istanbul",
+    "country":"Turkey",
+    "home_team":"Galatasaray S.K.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Suncorp Stadium",
+    "capacity":"52,500",
+    "city":"Brisbane",
+    "country":"Australia",
+    "home_team":"Brisbane Roar FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Benito Villamarín",
+    "capacity":"52,500",
+    "city":"Seville",
+    "country":"Spain",
+    "home_team":"Real Betis",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"St James' Park",
+    "capacity":"52,405",
+    "city":"Newcastle upon Tyne",
+    "country":"England",
+    "home_team":"Newcastle United FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Prince Moulay Abdellah Stadium",
+    "capacity":"52,000",
+    "city":"Rabat",
+    "country":"Morocco",
+    "home_team":"FAR Rabat",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kings Park Stadium",
+    "capacity":"52,000",
+    "city":"Durban",
+    "country":"South Africa",
+    "home_team":"Some Golden Arrows matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Newlands Stadium",
+    "capacity":"51,900",
+    "city":"Cape Town",
+    "country":"South Africa",
+    "home_team":"none",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hampden Park",
+    "capacity":"51,866",
+    "city":"Glasgow",
+    "country":"Scotland",
+    "home_team":"Scotland national football team, Queen's Park F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Monumental de Maturín",
+    "capacity":"51,796",
+    "city":"Maturín",
+    "country":"Venezuela",
+    "home_team":"Monagas Sport Club",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Loftus Versfeld Stadium",
+    "capacity":"51,762",
+    "city":"Pretoria",
+    "country":"South Africa",
+    "home_team":"Some Supersport United F.C. matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Aviva Stadium",
+    "capacity":"51,700",
+    "city":"Dublin",
+    "country":"Ireland",
+    "home_team":"Republic of Ireland national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Guiyang Olympic Sports Center",
+    "capacity":"51,638",
+    "city":"Guiyang",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hohhot City Stadium",
+    "capacity":"51,632",
+    "city":"Hohhot",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Donbass Arena",
+    "capacity":"51,504",
+    "city":"Donetsk",
+    "country":"Ukraine",
+    "home_team":"FC Shakhtar Donetsk",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Commerzbank-Arena",
+    "capacity":"51,500",
+    "city":"Frankfurt",
+    "country":"Germany",
+    "home_team":"Eintracht Frankfurt",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Presidente Juan Domingo Perón",
+    "capacity":"51,389",
+    "city":"Avellaneda",
+    "country":"Argentina",
+    "home_team":"Racing Club de Avellaneda",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Beira-Rio",
+    "capacity":"51,300",
+    "city":"Porto Alegre",
+    "country":"Brazil",
+    "home_team":"SC Internacional",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"İzmir Atatürk Stadium",
+    "capacity":"51,295",
+    "city":"İzmir",
+    "country":"Turkey",
+    "home_team":"Some Altay S.K. and Göztepe A.Ş. matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadion Feijenoord",
+    "capacity":"51,117",
+    "city":"Rotterdam",
+    "country":"Netherlands",
+    "home_team":"Feyenoord Rotterdam",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio BBVA Bancomer",
+    "capacity":"51,000[29]",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "home_team":"C.F. Monterrey",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ghadir Stadium",
+    "capacity":"51,000",
+    "city":"Ahvaz",
+    "country":"Iran",
+    "home_team":"Foolad F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ibrox Stadium",
+    "capacity":"50,947[30]",
+    "city":"Glasgow",
+    "country":"Scotland",
+    "home_team":"Rangers F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shizuoka Stadium",
+    "capacity":"50,889[31]",
+    "city":"Fukuroi",
+    "country":"Japan",
+    "home_team":"Some Júbilo Iwata and Shimizu S-Pulse matches, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ernst-Happel-Stadion",
+    "capacity":"50,865",
+    "city":"Vienna",
+    "country":"Austria",
+    "home_team":"Austria national football team, Some FK Austria Wien and SK Rapid Wien \nmatches, UEFA Euro 2008",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Şükrü Saracoğlu Stadium",
+    "capacity":"50,509",
+    "city":"Istanbul",
+    "country":"Turkey",
+    "home_team":"Fenerbahçe S.K.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio do Dragão",
+    "capacity":"50,431",
+    "city":"Porto",
+    "country":"Portugal",
+    "home_team":"F.C. Porto",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stanford Stadium",
+    "capacity":"50,424",
+    "city":"Palo Alto",
+    "country":"United States",
+    "home_team":"1999 FIFA Women's World Cup, 1994 FIFA World Cup, Exhibition matches of \nprofessional teams, and large capacity San Jose Earthquakes matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Pierre-Mauroy",
+    "capacity":"50,186",
+    "city":"Villeneuve-d'Ascq",
+    "country":"France",
+    "home_team":"Lille OSC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"King Baudouin Stadium",
+    "capacity":"50,122",
+    "city":"Brussels",
+    "country":"Belgium",
+    "home_team":"Belgium national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shaanxi Province Stadium",
+    "capacity":"50,100",
+    "city":"Xi'an",
+    "country":"China",
+    "home_team":"Shaanxi Zhongjian Chanba F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ajinomoto Stadium",
+    "capacity":"50,100",
+    "city":"Tokyo",
+    "country":"Japan",
+    "home_team":"F.C. Tokyo, Tokyo Verdy",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio José Alvalade",
+    "capacity":"50,095",
+    "city":"Lisbon",
+    "country":"Portugal",
+    "home_team":"Sporting CP",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"RheinEnergieStadion",
+    "capacity":"50,000",
+    "city":"Cologne",
+    "country":"Germany",
+    "home_team":"1. FC Köln, 2006 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Harbin Sports City Center Stadium",
+    "capacity":"50,000",
+    "city":"Harbin",
+    "country":"China",
+    "home_team":"Harbin Yiteng",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Eden Park",
+    "capacity":"50,000",
+    "city":"Auckland",
+    "country":"New Zealand",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Gabon Disaster Heroes Stadium",
+    "capacity":"50,000",
+    "city":"Lusaka",
+    "country":"Zambia",
+    "home_team":"Zambia national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio 11 de Novembro",
+    "capacity":"50,000",
+    "city":"Luanda",
+    "country":"Angola",
+    "home_team":"Primeiro de Agosto, Atlético Petróleos de Luanda",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Henan Provincial Stadium",
+    "capacity":"50,000",
+    "city":"Zhengzhou",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jiangxi Olympic Sports Center",
+    "capacity":"50,000",
+    "city":"Nanchang",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio 11 de Novembro",
+    "capacity":"50,000",
+    "city":"Luanda",
+    "country":"Angola",
+    "home_team":"Angola national football team, Petro Luanda",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Frankenstadion",
+    "capacity":"50,000",
+    "city":"Nuremberg",
+    "country":"Germany",
+    "home_team":"1. FC Nuremberg, 2006 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"June 11 Stadium",
+    "capacity":"50,000",
+    "city":"Tripoli",
+    "country":"Libya",
+    "home_team":"Libya, Al-Ahly Tripoli, Al-Ittihad Tripoli, Almadina S.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade 19 Mai 1956",
+    "capacity":"50,000",
+    "city":"Annaba",
+    "country":"Algeria",
+    "home_team":"USM Annaba",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Xinjiang Sports Centre",
+    "capacity":"50,000",
+    "city":"Urumqi",
+    "country":"China",
+    "home_team":"some regional team matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hiroshima Big Arch",
+    "capacity":"50,000",
+    "city":"Hiroshima",
+    "country":"Japan",
+    "home_team":"Sanfrecce Hiroshima",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jilin People's Stadium",
+    "capacity":"50,000",
+    "city":"Jilin City",
+    "country":"China",
+    "home_team":"some regional team matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Phnom Penh Olympic Stadium",
+    "capacity":"50,000",
+    "city":"Phnom Penh",
+    "country":"Cambodia",
+    "home_team":"Khemara Keila FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade du 26 Mars",
+    "capacity":"50,000",
+    "city":"Bamako",
+    "country":"Mali",
+    "home_team":"Stade Malien",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sultan Mizan Zainal Abidin Stadium",
+    "capacity":"50,000",
+    "city":"Kuala Terengganu",
+    "country":"Malaysia",
+    "home_team":"Some Terengganu FA matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Omnilife",
+    "capacity":"49,850",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "home_team":"C.D. Guadalajara",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Fritz-Walter-Stadion",
+    "capacity":"49,780",
+    "city":"Kaiserslautern",
+    "country":"Germany",
+    "home_team":"1. FC Kaiserslautern, 2006 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Rajamangala Stadium",
+    "capacity":"49,722",
+    "city":"Bangkok",
+    "country":"Thailand",
+    "home_team":"Thailand national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio José Amalfitani",
+    "capacity":"49,540",
+    "city":"Buenos Aires",
+    "country":"Argentina",
+    "home_team":"CA Vélez Sársfield",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Miyagi Stadium",
+    "capacity":"49,133",
+    "city":"Rifu",
+    "country":"Japan",
+    "home_team":"Some Vegalta Sendai matches, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Incheon Munhak Stadium",
+    "capacity":"49,084",
+    "city":"Incheon",
+    "country":"South Korea",
+    "home_team":"Incheon Korail FC, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Alberto J. Armando (La Bombonera)",
+    "capacity":"49,000",
+    "city":"Buenos Aires",
+    "country":"Argentina",
+    "home_team":"CA Boca Juniors",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"HDI-Arena",
+    "capacity":"49,000",
+    "city":"Hanover",
+    "country":"Germany",
+    "home_team":"Hannover 962006 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Parc des Princes",
+    "capacity":"48,712",
+    "city":"Paris",
+    "country":"France",
+    "home_team":"Paris Saint-Germain F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadium of Light",
+    "capacity":"48,707",
+    "city":"Sunderland",
+    "country":"England",
+    "home_team":"Sunderland A.F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Nacional de Chile",
+    "capacity":"48,665",
+    "city":"Santiago",
+    "country":"Chile",
+    "home_team":"Chile national football team, CF Universidad de Chile",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Nelson Mandela Bay Stadium",
+    "capacity":"48,459",
+    "city":"Port Elizabeth",
+    "country":"South Africa",
+    "home_team":"2010 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Tomás Adolfo Ducó",
+    "capacity":"48,314",
+    "city":"Buenos Aires",
+    "country":"Argentina",
+    "home_team":"CA Huracán",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jinnah Sports Stadium",
+    "capacity":"48,200",
+    "city":"Islamabad",
+    "country":"Pakistan",
+    "home_team":"Some Pakistan national football team matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Libertadores de América",
+    "capacity":"48,069",
+    "city":"Avellaneda",
+    "country":"Argentina",
+    "home_team":"Club Atlético Independiente",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Free State Stadium",
+    "capacity":"48,000",
+    "city":"Bloemfontein",
+    "country":"South Africa",
+    "home_team":"Bloemfontein Celtic",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Nagai Stadium",
+    "capacity":"47,816",
+    "city":"Osaka",
+    "country":"Japan",
+    "home_team":"Cerezo Osaka, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"City of Manchester Stadium",
+    "capacity":"47,805",
+    "city":"Manchester",
+    "country":"England",
+    "home_team":"Manchester City F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Camille Chamoun Sports City Stadium",
+    "capacity":"47,799",
+    "city":"Beirut",
+    "country":"Lebanon",
+    "home_team":"Lebanon national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Rogers Centre",
+    "capacity":"47,568",
+    "city":"Toronto",
+    "country":"Canada",
+    "home_team":"Some Toronto FC matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Monumental David Arellano",
+    "capacity":"47,347",
+    "city":"Santiago",
+    "country":"Chile",
+    "home_team":"Colo-Colo",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadio Artemio Franchi",
+    "capacity":"47,282",
+    "city":"Florence",
+    "country":"Italy",
+    "home_team":"ACF Fiorentina",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Ciudad de Lanús – Néstor Díaz Pérez",
+    "capacity":"47,027",
+    "city":"Lanús",
+    "country":"Argentina",
+    "home_team":"CA Lanús",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Metropolitano Roberto Meléndez",
+    "capacity":"46,788",
+    "city":"Barranquilla",
+    "country":"Colombia",
+    "home_team":"Colombia national football team, Atlético Junior",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Olímpico João Havelange",
+    "capacity":"46,931",
+    "city":"Rio de Janeiro",
+    "country":"Brazil",
+    "home_team":"Botafogo FR",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena Pernambuco",
+    "capacity":"46,154",
+    "city":"Recife",
+    "country":"Brazil",
+    "home_team":"Náutico",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena Corinthians",
+    "capacity":"46,116",
+    "city":"São Paulo",
+    "country":"Brazil",
+    "home_team":"Corinthians",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Mario Alberto Kempes",
+    "capacity":"46,083",
+    "city":"Córdoba",
+    "country":"Argentina",
+    "home_team":"Talleres de Córdoba, Some Belgrano de Córdoba matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Atanasio Girardot Sports Complex",
+    "capacity":"45,739",
+    "city":"Medellín",
+    "country":"Colombia",
+    "home_team":"Atlético Nacional, Independiente Medellín",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Robert F. Kennedy Memorial Stadium",
+    "capacity":"45,596",
+    "city":"Washington, D.C.",
+    "country":"United States",
+    "home_team":"D.C. United and USA international matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Nacional de Lima",
+    "capacity":"45,574",
+    "city":"Lima",
+    "country":"Peru",
+    "home_team":"Peru national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Ramón Sánchez Pizjuán",
+    "capacity":"45,500",
+    "city":"Seville",
+    "country":"Spain",
+    "home_team":"Sevilla FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sydney Football Stadium",
+    "capacity":"45,500",
+    "city":"Sydney",
+    "country":"Australia",
+    "home_team":"Sydney FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Adrar",
+    "capacity":"45,480",
+    "city":"Agadir",
+    "country":"Morocco",
+    "home_team":"Hassania Agadir",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Otkrytie Arena",
+    "capacity":"45,360",
+    "city":"Moscow",
+    "country":"Russia",
+    "home_team":"Spartak Moscow",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Anfield",
+    "capacity":"45,276",
+    "city":"Liverpool",
+    "country":"England",
+    "home_team":"Liverpool F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade de Marrakesh",
+    "capacity":"45,240",
+    "city":"Marrakesh",
+    "country":"Morocco",
+    "home_team":"Kawkab Marrakech",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mandela National Stadium",
+    "capacity":"45,202",
+    "city":"Kampala",
+    "country":"Uganda",
+    "home_team":"Express FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kazan Arena",
+    "capacity":"45,105",
+    "city":"Kazan",
+    "country":"Russia",
+    "home_team":"Rubin Kazan",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Olímpico do Pará",
+    "capacity":"45,007",
+    "city":"Belém",
+    "country":"Brazil",
+    "home_team":"Brazil national football team, Paysandu SC, Clube do Remo, Tuna Luso \nBrasileira, SC Belem",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Latakia Sports City Stadium",
+    "capacity":"45,000",
+    "city":"Latakia",
+    "country":"Syria",
+    "home_team":"1987 Mediterranean Games",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Zibo Sports Center Stadium",
+    "capacity":"45,000",
+    "city":"Zibo",
+    "country":"China",
+    "home_team":"2010 AFC U-19 Championship",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Weifang Sports Center Stadium",
+    "capacity":"45,000",
+    "city":"Weifang",
+    "country":"China",
+    "home_team":"11th National Games of the People's Republic of China",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Yantai Sports Park Stadium",
+    "capacity":"45,000",
+    "city":"Yantai",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Grand Stade de Tanger",
+    "capacity":"45,000",
+    "city":"Tangier",
+    "country":"Morocco",
+    "home_team":"IR Tanger",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kobe Universiade Memorial Stadium",
+    "capacity":"45,000[32]",
+    "city":"Kobe",
+    "country":"Japan",
+    "home_team":"Some Vissel Kobe matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio da Machava",
+    "capacity":"45,000",
+    "city":"Maputo",
+    "country":"Mozambique",
+    "home_team":"Mozambique national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Fes Stadium",
+    "capacity":"45,000",
+    "city":"Fes",
+    "country":"Morocco",
+    "home_team":"Wydad de Fès, Maghreb de Fès",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Naghsh-e-Jahan Stadium",
+    "capacity":"45,000",
+    "city":"Isfahan",
+    "country":"Iran",
+    "home_team":"Sepahan F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade El Menzah",
+    "capacity":"45,000",
+    "city":"Tunis",
+    "country":"Tunisia",
+    "home_team":"Club Africain, Espérance Sportive de Tunis",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Toyota Stadium",
+    "capacity":"45,000",
+    "city":"Toyota City",
+    "country":"Japan",
+    "home_team":"Some Nagoya Grampus Eight matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Lagos National Stadium",
+    "capacity":"45,000",
+    "city":"Lagos",
+    "country":"Nigeria",
+    "home_team":"Some Nigeria national football team matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mubarak International Stadium",
+    "capacity":"45,000",
+    "city":"Suez",
+    "country":"Egypt",
+    "home_team":"Egypt national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Red Bull Arena",
+    "capacity":"44,345",
+    "city":"Leipzig",
+    "country":"Germany",
+    "home_team":"RB Leipzig",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio Governador Alberto Tavares Silva (Albertão)",
+    "capacity":"44,200",
+    "city":"Teresina",
+    "country":"Brazil",
+    "home_team":"River AC, EC Flamengo, Piauí EC, SE Tiradentes, Auto EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ulsan Munsu Football Stadium",
+    "capacity":"44,102",
+    "city":"Ulsan",
+    "country":"South Korea",
+    "home_team":"Ulsan Hyundai, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Suwon World Cup Stadium",
+    "capacity":"43,959",
+    "city":"Suwon",
+    "country":"South Korea",
+    "home_team":"Suwon Samsung Bluewings, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Riau Main Stadium",
+    "capacity":"43,923",
+    "city":"Pekanbaru",
+    "country":"Indonesia",
+    "home_team":"2012 Pekan Olahraga Nasional",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Shandong Provincial Stadium",
+    "capacity":"43,700",
+    "city":"Jinan",
+    "country":"China",
+    "home_team":"Shandong Luneng Taishan F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"PGE Arena Gdańsk",
+    "capacity":"43,615",
+    "city":"Gdańsk",
+    "country":"Poland",
+    "home_team":"Lechia Gdańsk",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Allianz Parque",
+    "capacity":"43,600",
+    "city":"São Paulo",
+    "country":"Brazil",
+    "home_team":"SE Palmeiras",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Pedro Bidegain",
+    "capacity":"43,494",
+    "city":"Buenos Aires",
+    "country":"Argentina",
+    "home_team":"CA San Lorenzo de Almagro",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadion Miejski Poznań",
+    "capacity":"43,269",
+    "city":"Poznań",
+    "country":"Poland",
+    "home_team":"Lech Poznań, Warta Poznań",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Vasil Levski National Stadium",
+    "capacity":"43,230",
+    "city":"Sofia",
+    "country":"Bulgaria",
+    "home_team":"Bulgaria national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade de Gerland",
+    "capacity":"43,051",
+    "city":"Lyon",
+    "country":"France",
+    "home_team":"Olympique Lyonnais",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Universidad San Marcos",
+    "capacity":"43,000",
+    "city":"Lima",
+    "country":"Peru",
+    "home_team":"Universidad San Marcos",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sheikh Zayed Stadium",
+    "capacity":"43,000",
+    "city":"Abu Dhabi",
+    "country":"United Arab Emirates",
+    "home_team":"UAE Cup Finals",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Nya Ullevi Stadium",
+    "capacity":"43,000",
+    "city":"Gothenburg",
+    "country":"Sweden",
+    "home_team":"Gothenburg derbies, Sweden women's national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio General Santander",
+    "capacity":"42,901",
+    "city":"Cúcuta",
+    "country":"Colombia",
+    "home_team":"Cúcuta Deportivo",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stadion Miejski Wrocław",
+    "capacity":"42,771",
+    "city":"Wrocław",
+    "country":"Poland",
+    "home_team":"Śląsk Wrocław",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Zhouzhou Stadium",
+    "capacity":"42,740",
+    "city":"Zhouzhou",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Villa Park",
+    "capacity":"42,682",
+    "city":"Birmingham",
+    "country":"England",
+    "home_team":"Aston Villa F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Cuauhtémoc",
+    "capacity":"42,649",
+    "city":"Puebla",
+    "country":"Mexico",
+    "home_team":"Puebla F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Perak Stadium",
+    "capacity":"42,500",
+    "city":"Perak",
+    "country":"Malaysia",
+    "home_team":"Perak FA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jeonju World Cup Stadium",
+    "capacity":"42,477",
+    "city":"Jeonju",
+    "country":"South Korea",
+    "home_team":"Jeonbuk Hyundai Motors, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Weserstadion",
+    "capacity":"42,358",
+    "city":"Bremen",
+    "country":"Germany",
+    "home_team":"SV Werder Bremen",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Denka Big Swan Stadium",
+    "capacity":"42,300",
+    "city":"Niigata",
+    "country":"Japan",
+    "home_team":"Albirex Niigata, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Metropolitano de Mérida",
+    "capacity":"42,200",
+    "city":"Mérida",
+    "country":"Venezuela",
+    "home_team":"Estudiantes de Mérida",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Daejeon World Cup Stadium",
+    "capacity":"42,176",
+    "city":"Daejeon",
+    "country":"South Korea",
+    "home_team":"Daejeon Citizen, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Helsinki Olympic Stadium",
+    "capacity":"42,062",
+    "city":"Helsinki",
+    "country":"Finland",
+    "home_team":"Finland national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Inca Garcilaso de la Vega",
+    "capacity":"42,056",
+    "city":"Cusco",
+    "country":"Peru",
+    "home_team":"CS Cienciano",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mohammed Bin Zayed Stadium",
+    "capacity":"42,056",
+    "city":"Abu Dhabi",
+    "country":"United Arab Emirates",
+    "home_team":"Al-Jazira Club",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Modelo Alberto Spencer",
+    "capacity":"42,000",
+    "city":"Guayaquil",
+    "country":"Ecuador",
+    "home_team":"Club Sport Patria, Club Deportivo Everest, Panamá Sporting Club, Rocafuerte \nFútbol Club",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio do Zimpeto",
+    "capacity":"42,000",
+    "city":"Maputo",
+    "country":"Mozambique",
+    "home_team":"Mozambique national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Chengdu Sports Centre",
+    "capacity":"42,000",
+    "city":"Chengdu",
+    "country":"China",
+    "home_team":"Chengdu Blades F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Royal Bafokeng Stadium",
+    "capacity":"42,000",
+    "city":"Phokeng",
+    "country":"South Africa",
+    "home_team":"Platinum Stars F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Universitario",
+    "capacity":"42,000",
+    "city":"San Nicolás de los Garza",
+    "country":"Mexico",
+    "home_team":"Tigres de la UANL",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stamford Bridge",
+    "capacity":"41,798[33]",
+    "city":"London",
+    "country":"England",
+    "home_team":"Chelsea F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Peter Mokaba Stadium",
+    "capacity":"41,733",
+    "city":"Polokwane",
+    "country":"South Africa",
+    "home_team":"Polokwane City F.C.",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Gigante de Arroyito",
+    "capacity":"41,654",
+    "city":"Rosario",
+    "country":"Argentina",
+    "home_team":"Rosario Central",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Polideportivo Cachamay",
+    "capacity":"41,600",
+    "city":"Ciudad Guayana",
+    "country":"Venezuela",
+    "home_team":"Atlético Club Mineros de Guayana, AC Minervén FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio de Liga Deportiva Universitaria",
+    "capacity":"41,596",
+    "city":"Quito",
+    "country":"Ecuador",
+    "home_team":"LDU",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ramat Gan Stadium",
+    "capacity":"41,583",
+    "city":"Ramat Gan",
+    "country":"Israel",
+    "home_team":"Israel national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sapporo Dome",
+    "capacity":"41,484",
+    "city":"Sapporo",
+    "country":"Japan",
+    "home_team":"Some Consadole Sapporo matches, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Goyang Stadium",
+    "capacity":"41,311",
+    "city":"Goyang",
+    "country":"South Korea",
+    "home_team":"Goyang KB",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Juventus Stadium",
+    "capacity":"41,254",
+    "city":"Torino",
+    "country":"Italy",
+    "home_team":"Juventus FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade Félix-Bollaert",
+    "capacity":"41,229",
+    "city":"Lens",
+    "country":"France",
+    "home_team":"RC Lens",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Hernando Siles",
+    "capacity":"41,143",
+    "city":"La Paz",
+    "country":"Bolivia",
+    "home_team":"La Paz F.C., Club Bolívar, The Strongest",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena Pantanal",
+    "capacity":"41,112",
+    "city":"Cuiabá",
+    "country":"Brazil",
+    "home_team":"Cuiabá, Mixto EC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Arena da Amazônia",
+    "capacity":"41,000",
+    "city":"Manaus",
+    "country":"Brazil",
+    "home_team":"Nacional FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mbombela Stadium",
+    "capacity":"40,929",
+    "city":"Nelspruit",
+    "country":"South Africa",
+    "home_team":"2010 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio José Pachencho Romero",
+    "capacity":"40,800",
+    "city":"Maracaibo",
+    "country":"Venezuela",
+    "home_team":"Unión Atlético Maracaibo",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Levy Mwanawasa Stadium",
+    "capacity":"40,800",
+    "city":"Ndola",
+    "country":"Zambia",
+    "home_team":"ZESCO United",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kashima Soccer Stadium",
+    "capacity":"40,728",
+    "city":"Kashima",
+    "country":"Japan",
+    "home_team":"Kashima Antlers, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Baba Yara Stadium",
+    "capacity":"40,528",
+    "city":"Kumasi",
+    "country":"Ghana",
+    "home_team":"Asante Kotoko F.C., King Faisal Babes",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadi Cornellà-El Prat",
+    "capacity":"40,500",
+    "city":"Barcelona",
+    "country":"Spain",
+    "home_team":"RCD Espanyol",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Metropolitano de Fútbol de Lara",
+    "capacity":"40,312",
+    "city":"Barquisimeto",
+    "country":"Venezuela",
+    "home_team":"Unión Lara",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Malvinas Argentinas",
+    "capacity":"40,268",
+    "city":"Mendoza",
+    "country":"Argentina",
+    "home_team":"Godoy Cruz Antonio Tomba",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Gwangju World Cup Stadium",
+    "capacity":"40,245",
+    "city":"Gwangju",
+    "country":"South Korea",
+    "home_team":"Gwangju FC, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estadio Virgen de Chapi",
+    "capacity":"40,217",
+    "city":"Arequipa",
+    "country":"Peru",
+    "home_team":"FBC Melgar, Club IDUNSA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Mỹ Đình National Stadium",
+    "capacity":"40,192",
+    "city":"Hanoi",
+    "country":"Vietnam",
+    "home_team":"Vietnam national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Castelão",
+    "capacity":"40,100",
+    "city":"São Luís",
+    "country":"Brazil",
+    "home_team":"Sampaio Corrêa FC, Moto Club SL, Maranhão AC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Metalist Oblast Sports Complex",
+    "capacity":"40,003",
+    "city":"Kharkiv",
+    "country":"Ukraine",
+    "home_team":"FC Metalist Kharkiv",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Fisht Olympic Stadium",
+    "capacity":"40,000",
+    "city":"Sochi",
+    "country":"Russia",
+    "home_team":"Zhemchuzhina-Sochi",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Rentschler Field",
+    "capacity":"40,000",
+    "city":"East Hartford",
+    "country":"United States",
+    "home_team":"USA National men's and women's teams, International matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"March 28 Stadium",
+    "capacity":"40,000",
+    "city":"Benghazi",
+    "country":"Libya",
+    "home_team":"Al-Ahly Benghazi S.C., Al-Nasr Benghazi, Attahaddy Benghazi S.C., Some Libya \nnational football team matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Estádio José Américo de Almeida Filho (Almeidão)",
+    "capacity":"40,000",
+    "city":"João Pessoa",
+    "country":"Brazil",
+    "home_team":"Botafogo FC, Auto Esporte Clube",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jawaharlal Nehru Stadium",
+    "capacity":"40,000",
+    "city":"Chennai",
+    "country":"India",
+    "home_team":"Chennaiyin FC, Indian Bank FC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hang Jebat Stadium",
+    "capacity":"40,000",
+    "city":"Malacca",
+    "country":"Malaysia",
+    "home_team":"Melaka TMFC",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Hong Kong Stadium",
+    "capacity":"40,000",
+    "city":"So Kon Po",
+    "country":"Hong Kong",
+    "home_team":"South China AA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Jalak Harupat Soreang Stadium",
+    "capacity":"40,000",
+    "city":"Bandung",
+    "country":"Indonesia",
+    "home_team":"Persib Bandung and Persikab Bandung",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Negeri Pulau Pinang Stadium",
+    "capacity":"40,000",
+    "city":"Batu Kawan",
+    "country":"Malaysia",
+    "home_team":"Some Penang FA matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Accra Sports Stadium",
+    "capacity":"40,000",
+    "city":"Accra",
+    "country":"Ghana",
+    "home_team":"Accra Hearts of Oak SC, Great Olympics",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sarawak Stadium",
+    "capacity":"40,000",
+    "city":"Kuching",
+    "country":"Malaysia",
+    "home_team":"Sarawak FA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Bogyoke Aung San Stadium",
+    "capacity":"40,000",
+    "city":"Yangon",
+    "country":"Burma",
+    "home_team":"Some local teams matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Ōita Bank Dome",
+    "capacity":"40,000",
+    "city":"Ōita",
+    "country":"Japan",
+    "home_team":"Ōita Trinita, 2002 FIFA World Cup",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Darul Makmur Stadium",
+    "capacity":"40,000",
+    "city":"Kuantan",
+    "country":"Malaysia",
+    "home_team":"Pahang FA",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Tuanku Abdul Rahman Stadium",
+    "capacity":"40,000",
+    "city":"Seremban",
+    "country":"Malaysia",
+    "home_team":"ATM FA, Negeri Sembilan",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Khalifa International Stadium",
+    "capacity":"40,000",
+    "city":"Doha",
+    "country":"Qatar",
+    "home_team":"Qatar national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Stade d'Angondjé",
+    "capacity":"40,000",
+    "city":"Libreville",
+    "country":"Gabon",
+    "home_team":"Gabon national football team",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"JRD Tata Sports Complex",
+    "capacity":"40,000",
+    "city":"Jamshedpur",
+    "country":"India",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Bao'an Stadium",
+    "capacity":"40,000",
+    "city":"Shenzhen",
+    "country":"China",
+    "home_team":"Shenzhen Ruby",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Kunming Tuodong Sports Center",
+    "capacity":"40,000",
+    "city":"Kunming",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Taizhou Sports Center",
+    "capacity":"40,000",
+    "city":"Taizhou",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Wuhu Olympic Stadium",
+    "capacity":"40,000",
+    "city":"Wuhu",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Huizhou Olympic Stadium",
+    "capacity":"40,000",
+    "city":"Huizhou",
+    "country":"China",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  },
+  {
+    "name":"Sunan Stadium",
+    "capacity":"40,000",
+    "city":"Pyongyang",
+    "country":"North Korea",
+    "home_team":"local football matches",
+    "stadium_blurb":"",
+    "city_blurb":""
+  }
+]

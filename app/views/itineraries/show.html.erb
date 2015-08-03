@@ -1,0 +1,65 @@
+
+<left><img src = "https://github.com/MJStokes86/Project_3-Soccer_Fan/blob/master/images/Soccer-logo.png?raw=true" height="100" width="300" /></left>
+
+
+
+<center>
+<h1><%=@user.name%> <%=@itinerary.name%> Itinerary Details</h1>
+
+
+
+<br />
+
+<h2>Football Match Listings</h2>
+
+<section>
+
+<h3>Create New Match</h3>
+
+<form action = '/itineraries/<%= @itinerary.id %>/matches' method='POST'>
+<label>Select Stadium</label>
+  <select name="stadium_id">
+  <% @stadia.each do |stadium| %>
+
+  <option value='<%= stadium.id %>'><%=stadium.name%></option>
+
+  <%end%>
+
+  </select> 
+
+  <br>
+
+  <input name = 'authenticity_token' type="hidden" value="<%= form_authenticity_token %>" />
+  <input name = "itinerary_id" value= "<%=@itinerary.id%>" type="hidden" />
+  <br>
+  <br>
+  <label>Choose Date</label>
+  <input type="date" name="date">
+
+  <br>
+  <br>
+  <br>
+  <label>
+  Team 1
+  <input type = 'text' name = 'team1_name' /> 
+  </label>
+  <br>
+  <h3>vs</h3> 
+  <label>
+  Team 2
+  <input type = 'text' name= 'team2_name' />
+  </label>
+  <br>
+  <br>
+  <button>Create Match</button>
+  <br>
+
+</form>
+
+
+</section>
+
+<div></div>
+
+
+</center>
