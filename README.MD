@@ -1,4 +1,5 @@
 <img src="./images/Soccer-logo-2.png">
+
 ##Application description
 
 ###Traveling Football Fan App
