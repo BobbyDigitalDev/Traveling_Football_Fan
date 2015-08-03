@@ -10,9 +10,9 @@ The casual fan will appreciate having easily accessible, printed content, they c
 The hardcore fan can also benefit from having readily accessible talking points they can use to connect with other fans and it can serve as an invaluable tool for keeping their many football watching adventures organized in one simple and convenient place.
 
 ##Team members
++ Bobby Lopez
 + Efosa Osamwonyi
 + Mike Stokes
-+ Bobby Lopez
 + Kangil Lee
 
 ##Technology used
