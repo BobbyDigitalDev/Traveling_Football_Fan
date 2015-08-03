@@ -164,17 +164,11 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-<<<<<<< HEAD
   materialize-sass
   pg
   pry-rails
   rails (= 4.2.1)
   rails_12factor
-=======
-  pg
-  pry-rails
-  rails (= 4.2.1)
->>>>>>> e3c4985d38ea570d34744f4ba7a6d8fa9aadf186
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   spring
